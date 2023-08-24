@@ -13,7 +13,7 @@ Feature: Account Management
 
     Examples:
       | FirstName | LastName | Email                  | Password   | ConfirmPassword |
-      | John      | Smith    | johnsmith3@testing.com | Testing12! | Testing12!      |
+      | John      | Smith    | johnsmith4@testing.com | Testing12! | Testing12!      |
 
 
   @AccountLogin
@@ -27,7 +27,7 @@ Feature: Account Management
 
     Examples:
       | Email                  | Password   |
-      | johnsmith3@testing.com | Testing12! |
+      | johnsmith4@testing.com | Testing12! |
 
 
 
